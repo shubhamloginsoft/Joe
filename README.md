@@ -90,7 +90,7 @@
 ### Flex Consumption Plan 
 - Click on below button to deploy with Flex Consumption plan:
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fshubhamloginsoft%2FJoe%2Frefs%2Fheads%2Fmain%2F%2Fazuredeploy.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fshubhamloginsoft%2FJoe%2Frefs%2Fheads%2Fmain%2Fazuredeploy.json)
 ### Premium Plan
 - Click on below button to deploy with Premium plan:
 
